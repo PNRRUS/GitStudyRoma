@@ -4,7 +4,7 @@ public class Main {
 String name;
 name = "gitHub";
             System.out.println("Hello world!"); //команда вывода
-
+System.out.println(name);
     }
 
 
